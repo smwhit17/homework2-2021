@@ -52,14 +52,14 @@ div {
     text-shadow: 4px 4px 2px #c7e2c7;
 }
 
-#green{
+#green {
     background-color: #008000;
     text-align: left;
 }
 
 footer p {
     text-align:center;
-    padding: 10px 0px 10px;
+    padding: 0px 10px 10px 0px;
 }
 
-#do not ask questions anbout "all p elements have correct padding"they will not answer - read carefully or look at lecture slides
+/* do not ask questions anbout "all p elements have correct padding"they will not answer - read carefully or look at lecture slides */
